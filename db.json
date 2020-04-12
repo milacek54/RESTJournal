@@ -3,19 +3,33 @@
       {
         "eventId": 21,
         "userId": 2,
-        "title": "Blabla",
-        "description": ""
+        "title": "Kolo",
+        "description": "Projizdka na kole",
+        "dateFrom": "2020-04-10T00:00:00+02:00",
+        "dateTo": "2020-04-10T00:00:00+02:00"
       },
       {
         "eventId": 22,
         "userId": 2,
-        "title": "Blabla2",
-        "description": ""
+        "title": "Obed s babickou",
+        "description": "Babicka uvarila rizky",
+        "dateFrom": "2020-04-07T00:00:00+02:00",
+        "dateTo": "2020-04-07T00:00:00+02:00"
       },
       {
         "eventId": 23,
         "userId": 2,
-        "title": "Blabla3",
-        "description": ""
+        "title": "Vikend na chate",
+        "description": "Upekli jsme si burty na ohni. A sli jsme na prochazku do lesa.",
+        "dateFrom": "2020-04-05T00:00:00+02:00",
+        "dateTo": "2020-04-06T00:00:00+02:00"
+      },
+      {
+        "eventId": 24,
+        "userId": 2,
+        "title": "Meeting v praci",
+        "description": "",
+        "dateFrom": "2020-04-03T00:00:00+02:00",
+        "dateTo": "2020-04-03T00:00:00+02:00"
       }]
 }
