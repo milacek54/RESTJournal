@@ -1,0 +1,21 @@
+{
+  "items": [
+      {
+        "eventId": 21,
+        "userId": 2,
+        "title": "Blabla",
+        "description": ""
+      },
+      {
+        "eventId": 22,
+        "userId": 2,
+        "title": "Blabla2",
+        "description": ""
+      },
+      {
+        "eventId": 23,
+        "userId": 2,
+        "title": "Blabla3",
+        "description": ""
+      }]
+}
