@@ -45,7 +45,9 @@
         "title": "Kolo",
         "description": "Projizdka na kole",
         "dateFrom": "2020-04-10T00:00:00+02:00",
-        "dateTo": "2020-04-10T00:00:00+02:00"
+        "dateTo": "2020-04-10T00:00:00+02:00",
+        "latitude": "49.783036",
+        "longitude": "18.240423"
        },
     "22":
       {
@@ -53,7 +55,9 @@
         "title": "Obed s babickou",
         "description": "Babicka uvarila rizky",
         "dateFrom": "2020-04-07T00:00:00+02:00",
-        "dateTo": "2020-04-07T00:00:00+02:00"
+        "dateTo": "2020-04-07T00:00:00+02:00",
+        "latitude": "49.736385",
+        "longitude": "18.240814"
       },
     "23":
       {
@@ -61,13 +65,17 @@
         "title": "Vikend na chate",
         "description": "Upekli jsme si burty na ohni. A sli jsme na prochazku do lesa.",
         "dateFrom": "2020-04-05T00:00:00+02:00",
-        "dateTo": "2020-04-06T00:00:00+02:00"
+        "dateTo": "2020-04-06T00:00:00+02:00",
+        "latitude": "49.651678",
+        "longitude": "18.791703"
       },
     "24":
       {
         "userId": 2,
         "title": "Meeting v praci",
         "description": "",
+        "dateFrom": "2020-04-03T00:00:00+02:00",
+        "dateTo": "2020-04-03T00:00:00+02:00",
         "dateFrom": "2020-04-03T00:00:00+02:00",
         "dateTo": "2020-04-03T00:00:00+02:00"
       }}
